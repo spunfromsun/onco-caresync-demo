@@ -1,7 +1,7 @@
 # CareSync
 
 <p align="center">
-  <img src="screenshots/logo.png" alt="CareSync" width="400" />
+  <img src="Screenshots/logo.png" alt="CareSync" width="400" />
 </p>
 
 **A mobile-first cancer patient care dashboard with AI-powered document ingestion.**
@@ -17,21 +17,21 @@ Built for a single family's real-world use — tracking vitals, medications, che
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/dashboard-vitals.png" alt="Vitals Dashboard" /><br/>
+      <img src="Screenshots/dashboard-vitals.png" alt="Vitals Dashboard" /><br/>
       <sub><b>Vitals Dashboard</b> — Blood pressure, heart rate, temperature (°F/°C toggle) and weight trend charts with color-coded normal ranges</sub>
     </td>
     <td align="center">
-      <img src="screenshots/documents-library.png" alt="Document Library" /><br/>
+      <img src="Screenshots/documents-library.png" alt="Document Library" /><br/>
       <sub><b>Document Library</b> — All ingested medical records filterable by type: Labs, Imaging, Discharge, Rx, Logs</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/upload-flow.png" alt="Upload Flow" /><br/>
+      <img src="Screenshots/upload-flow.png" alt="Upload Flow" /><br/>
       <sub><b>Upload Flow</b> — Photograph any hospital document; select its type and the AI extracts all fields automatically</sub>
     </td>
     <td align="center">
-      <img src="screenshots/quick-add.png" alt="Quick Add" /><br/>
+      <img src="Screenshots/quick-add.png" alt="Quick Add" /><br/>
       <sub><b>Quick Add</b> — One-tap logging for vitals, medications, chemo sessions, events, and document uploads</sub>
     </td>
   </tr>
