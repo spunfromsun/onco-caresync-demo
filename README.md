@@ -283,11 +283,11 @@ All mutations route through Next.js API routes (13 modules) — the browser neve
 
 | Metric | Value |
 |---|---|
-| TypeScript source files | 99 |
-| Lines of code | ~13,800 |
+| TypeScript source files | 101 |
+| Lines of code | ~14,800 |
 | API route modules | 13 |
 | Document types supported | 6 |
-| Supabase migrations | 4 |
+| Supabase migrations | 5 |
 | LLM extraction prompts | 6 |
 | Build errors | 0 |
 
@@ -333,8 +333,13 @@ npm run build
 
 ## Status
 
-This is an active project in daily use. Current work:
-- Multi-image upload UI for discharge summaries (multi-page documents)
+This is an active project in daily use. Recent completions:
+- Full dark mode across all 35 pages and components (system preference + manual toggle via `ThemeProvider`)
+- Discharge summary ingestion with multi-field review (medications, embedded lab results, clinical narrative)
+- Fahrenheit input with live Celsius conversion for temperature vitals
+
+Current work:
+- Multi-image upload for discharge summaries (multi-page hospital documents)
 - Trend analysis across lab results over time
 - PDF export of patient summaries
 
