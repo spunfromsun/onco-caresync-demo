@@ -1,8 +1,5 @@
 # CareSync
 
-<p align="center">
-  <img src="Screenshots/logo.png" alt="CareSync" width="400" />
-</p>
 
 **A mobile-first cancer patient care dashboard with AI-powered document ingestion.**
 
